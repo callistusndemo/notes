@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t hamelsmu/notes .
-docker push hamelsmu/notes
+docker build -t callistusndemo/notes .
+docker push callistusndemo/notes
