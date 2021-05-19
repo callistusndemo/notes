@@ -3,6 +3,7 @@ layout: default
 title: Docker
 nav_order: 2
 parent: Docker
+grand_parent: Developer Toolkit
 ---
 
 Notes from the book [Docker In Action](https://www.manning.com/books/docker-in-action-second-edition?utm_source=google&utm_medium=search&utm_campaign=dynamicsearch&gclid=CjwKCAjwmMX4BRAAEiwA-zM4JtyXLeFoALyh7xvEtg9B7nTbf3VeOFzo6Sdu119z94d6cll6XsbKgxoCRmMQAvD_BwE)

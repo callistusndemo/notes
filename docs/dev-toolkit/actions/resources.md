@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 parent: GitHub Actions
+grand_parent: Developer Toolkit
 nav_order: 1
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: Processes, Permissions and Moving Data
 parent: Linux & Bash Scripting
+grand_parent: Developer Toolkit
 nav_order: 3
 ---
 

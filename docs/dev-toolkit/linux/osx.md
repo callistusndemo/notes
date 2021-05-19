@@ -2,6 +2,7 @@
 layout: default
 title: OSX Shell Tips
 parent: Linux & Bash Scripting
+grand_parent: Developer Toolkit
 nav_order: 99
 ---
 
