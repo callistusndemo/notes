@@ -1,6 +1,6 @@
 ---
 title: "Python Concurrency"
-parent: python
+parent: Python
 autoCollapseToc: true
 layout: default
 ---

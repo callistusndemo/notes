@@ -21,7 +21,7 @@
 title: Callistus' Notes
 description: Notes for All
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://notes.hamel.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://notes.callistusndemo.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  callistusndemo
 
@@ -37,7 +37,7 @@ aux_links:
     - "//github.com/callistusndemo/notes"
 
 heading_anchors: true
-footer_content: "Forked from Hamel's notes."
+
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
